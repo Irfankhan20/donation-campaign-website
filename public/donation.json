@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "title": "Clean water for children",
+      "image": "https://i.ibb.co/yfWXdq6/Rectangle-4284.png",
+      "category": "Health",
+      "description": "Explore articles, tips, and advice on maintaining a healthy lifestyle. Discover fitness routines, nutrition guides, and mindfulness techniques to promote physical and mental well-being.",
+      "price": 290,
+      "category_background_color": "#0052ff33",
+      "card_background_color": "#0052ff26",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 2,
+      "title": "Good education",
+      "image": "https://i.ibb.co/D85vBkj/Education.png",
+      "category": "Education",
+      "description": " Good education is a specialized field aimed at supporting students with disabilities or exceptional learning needs. It involves tailored teaching methods, individualized education plans, and a multidisciplinary approach to ensure that all students, regardless of their abilities, receive quality education and support.",
+      "price": 250,
+      "category_background_color": "#FF444A33",
+      "card_background_color": " #FF444A26",
+      "text_color": "#FF444A"
+    },
+    {
+      "id": 3,
+      "title": "Used Clothing Drive",
+      "image": "https://i.ibb.co/PDzwsMk/Clothing.png",
+      "category": "Clothing",
+      "description": "Whether you're hitting the gym or heading out for a jog, our athletic clothing category offers high-quality activewear designed to enhance your performance and keep you comfortable during your workouts.",
+      "price": 210,
+      "category_background_color": "#79C23F33",
+      "card_background_color": "#79C23F26",
+      "text_color": "#79C23F"
+    },
+    {
+      "id": 4,
+      "title": "Better Food for Everyone",
+      "image": "https://i.ibb.co/42sWXcf/Food.png",
+      "category": "Food",
+      "description": "Indulge in the world of culinary excellence with our gourmet food category. Discover a wide range of premium and exquisite dishes, ingredients, and dining experiences that will tantalize your taste buds and elevate your culinary adventures.",
+      "price": 270,
+      "category_background_color": "#F8714733",
+      "card_background_color": "#F8714726",
+      "text_color": "#F87147"
+    },
+    {
+      "id": 5,
+      "title": "International Cuisine",
+      "image": "https://i.ibb.co/Sd4dTYJ/download.jpg",
+      "category": "Food",
+      "description": "Craving a taste of nostalgia? Our comfort food category is a haven for those seeking the warmth and satisfaction of classic dishes that bring back cherished memories. Explore timeless favorites like mac 'n' cheese, hearty stews, and soul-soothing desserts that provide a comforting embrace with every bite.",
+      "price": 255,
+      "category_background_color": "#F8714733",
+      "card_background_color": "#F8714726",
+      "text_color": "#F87147"
+      
+    },
+    {
+      "id": 6,
+      "title": "Formal Attire",
+      "image": "https://i.ibb.co/FHVKbtt/images-1.jpg",
+      "category": "Clothing",
+      "description": " Discover a range of stylish and sophisticated eveningwear that's perfect for special occasions. Our selection includes stunning dresses, tailored suits, and accessories to make you stand out.",
+      "price": 230,
+      "category_background_color": "#79C23F33",
+      "card_background_color": "#79C23F26",
+      "text_color": "#79C23F"
+      
+    },
+    {
+      "id": 7,
+      "title": "STEM Education",
+      "image": "https://i.ibb.co/wKxx9YY/download-2.jpg",
+      "category": "Education",
+      "description": "STEM (Science, Technology, Engineering, and Mathematics) education focuses on preparing students for careers in these fields. It emphasizes critical thinking, problem-solving, and hands-on learning in subjects like physics, computer science, and mathematics, fostering innovation and technological advancement.",
+      "price": 258,
+      "category_background_color": "#FF444A33",
+      "card_background_color": "#ffffff",
+      "text_color": "#333333"
+    },
+    {
+      "id": 8,
+      "title": "Mental Health and Self-Care",
+      "image": "https://i.ibb.co/C5BB8jc/images-3.jpg",
+      "category": "Health",
+      "description": " Learn about various medical conditions, their symptoms, diagnosis, and treatment options. Stay informed about the latest advancements in medical science and how they can impact your health.",
+      "price": 295,
+      "category_background_color": "#0052ff33",
+      "card_background_color": "#0052ff26",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 9,
+      "title": "Wellness and Fitness",
+      "image": "https://i.ibb.co/82DD3wM/images-2.jpg",
+      "category": "Health",
+      "description": " Focus on mental well-being with insights into managing stress, anxiety, and depression. Find resources on building resilience, seeking therapy, and practicing self-care for a balanced and happier life.",
+      "price": 298,
+      "category_background_color": "#0052ff33",
+      "card_background_color": "#0052ff26",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 10,
+      "title": "Language and Literature Studies",
+      "image": "https://i.ibb.co/qsQ1qdh/download-3.jpg",
+      "category": "Education",
+      "description": "This category encompasses the study of languages, literature, and linguistics. It delves into the exploration of written and spoken communication, literary analysis, and language acquisition, helping students appreciate cultural diversity and develop strong communication skills.",
+      "price": 259,
+      "category_background_color": "#FF444A33",
+      "card_background_color": "#ffffff",
+      "text_color": "#333333"
+    },
+    {
+      "id": 11,
+      "title": "Formal Attire",
+      "image": "https://i.ibb.co/jrtSpG6/images.jpg",
+      "category": "Clothing",
+      "description": " Explore our collection of cozy and relaxed clothing options designed for everyday wear. From soft tees to comfy sweatpants, we've got your comfort covered.",
+      "price": 280,
+      "category_background_color": " #79C23F33",
+      "card_background_color": "#79C23F26",
+      "text_color": "#79C23F"
+    },
+    {
+      "id": 12,
+      "title": "Healthy Eats",
+      "image": "https://i.ibb.co/KxxFPFW/download-1.jpg",
+      "category": "Food",
+      "description": "Dive into the world of plant-based cuisine with our food category dedicated to the goodness of fruits, vegetables, and grains. Whether you're a committed vegan or simply curious about incorporating more plant-based meals into your diet, you'll find an array of delicious and nutritious options that celebrate the flavors and benefits of plant-powered eating.",
+      "price": 275,
+      "category_background_color": "#F8714733",
+      "card_background_color": "#F8714726",
+      "text_color": "#F87147"
+    }
+  ]
+  
