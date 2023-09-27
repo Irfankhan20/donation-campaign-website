@@ -7,7 +7,7 @@ const getStoredDonation = () =>{
 }
 
 
-const saveJobApplication = id =>{
+const saveDonation = id =>{
     const storedDonations = getStoredDonation();
     const exists = storedDonations.find(donationId => donationId === id);
     if(!exists){
@@ -16,4 +16,4 @@ const saveJobApplication = id =>{
     }
 }
 
-export { getStoredDonation, saveJobApplication}
+export { getStoredDonation, saveDonation}

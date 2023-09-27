@@ -3,6 +3,7 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveDonation } from "../utility/localstorage";
 
 const DonationDetails = () => {
   const donations = useLoaderData();
@@ -15,6 +16,7 @@ const DonationDetails = () => {
   };
 
   const handleButtonClick = () => {
+    saveDonation(idInt);
     // Show a toast notification when the button is clicked
     toast.success("Thank you for your donation!", {
       position: toast.POSITION.TOP_CENTER,

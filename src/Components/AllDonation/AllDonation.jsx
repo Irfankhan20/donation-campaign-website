@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 
 const AllDonation = ({donation}) => {
-    const { id, image, category, category_background_color, card_background_color, text_color, title } = donation
+    const { id, image, category, title } = donation
     // console.log(card.id)
     let bgColor,titleColor,btnBg,btnColor;
     switch(category){
