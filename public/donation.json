@@ -75,8 +75,8 @@
       "description": "STEM (Science, Technology, Engineering, and Mathematics) education focuses on preparing students for careers in these fields. It emphasizes critical thinking, problem-solving, and hands-on learning in subjects like physics, computer science, and mathematics, fostering innovation and technological advancement.",
       "price": 258,
       "category_background_color": "#FF444A33",
-      "card_background_color": "#ffffff",
-      "text_color": "#333333"
+      "card_background_color": "#FF444A26",
+      "text_color": "#FF444A"
     },
     {
       "id": 8,
@@ -108,8 +108,8 @@
       "description": "This category encompasses the study of languages, literature, and linguistics. It delves into the exploration of written and spoken communication, literary analysis, and language acquisition, helping students appreciate cultural diversity and develop strong communication skills.",
       "price": 259,
       "category_background_color": "#FF444A33",
-      "card_background_color": "#ffffff",
-      "text_color": "#333333"
+      "card_background_color": "#FF444A26",
+      "text_color": "#FF444A"
     },
     {
       "id": 11,
